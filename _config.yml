@@ -7,8 +7,8 @@
 ## Uses distinct namespace. Jekyll settings should go at the root level.
 githubiverse:
     ## Metadata
-    title: Jaeger Lab Experimental Grains
-    author: A. Athanassiadis, M. Miskin
+    title: Jaeger Lab Experimental Grain Library
+    author: A.G. Athanassiadis
 ##    license: GPL3
 ##    tags: [mechanical movement, fun]
 
