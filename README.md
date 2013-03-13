@@ -7,17 +7,17 @@ Here is a list of shapes and some of their properties:
 
 | Shape         		| Volume	| Surface Area	| Number of Faces	| Geometric Family	|
 | --------------------- | --------- | ------------- | ----------------- | ----------------- |
-| Sphere				|		  	|				|					| Ball				|
-| Tetrahedron			|		  	|				|					| Platonic Solid	|
-| Cube					|	      	|				|					| Platonic Solid	|
-| Octahedron			|			|				|					| Platonic Solid	|
-| Dodecahedron			|			|				|					| Platonic Solid	|
-| Icosahedron			|			|				|					| Platonic Solid	|
-| Truncated Tetrahedron |			|				|					| Archimedean Solid |
-| Triangular Bipyramid  |			|				|					| Johnson Solid		|
-| Tetrahedral Frame		|			|				|					| Frame				|
-| Dolos					|			|				|					| Engineering Material|
-| 0.9mm Jack			|			|				|					| Jack				|
-| 1.3mm Jack			|			|				|					| Jack				|
-| 2.6mm Jack			|			|				|					| Jack				|
-| 3.6mm Jack			|			|				|					| Jack				|
+| Sphere				|		  	|				| infty				| Ball				|
+| Tetrahedron			|		  	|				| 4					| Platonic Solid	|
+| Cube					|	      	|				| 6					| Platonic Solid	|
+| Octahedron			|			|				| 8					| Platonic Solid	|
+| Dodecahedron			|			|				| 12				| Platonic Solid	|
+| Icosahedron			|			|				| 20				| Platonic Solid	|
+| Truncated Tetrahedron |			|				| 8					| Archimedean Solid |
+| Triangular Bipyramid  |			|				| 8					| Johnson Solid		|
+| Tetrahedral Frame		|			|				| X					| Frame				|
+| Dolos					|			|				| X					| Engineering Material|
+| 0.9mm Jack			|			|				| X					| Jack				|
+| 1.3mm Jack			|			|				| X					| Jack				|
+| 2.6mm Jack			|			|				| X					| Jack				|
+| 3.6mm Jack			|			|				| X					| Jack				|
