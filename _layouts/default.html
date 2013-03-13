@@ -66,32 +66,10 @@
               </div>
 
               <div class="meta row-fluid">
-                <div class="span12">
-                  <div id="tags">
-                    <i class="icon-tags" title="tags"></i>&nbsp;
-                    {% for tag in site.githubiverse.tags %}
-                      <a href="#" class="tag"><span class="label">{{ tag }}</span></a>
-                    {% endfor %}
-                  </div>
-                </div>
-              </div>
-
-              <div class="meta row-fluid">
                 <div class="span6">
                   <div id="home"><i class='icon-home' title="Repository"></i>&nbsp;<a rel="ttn:url" href="{{ site.githubiverse.github.base }}{{site.githubiverse.github.user}}/{{ site.githubiverse.github.repository }}">{{ site.githubiverse.github.repository }}</a></div>
                 </div>
 
-                <div class="span6">
-                  <div typeof="ttn:Maintainer" resource="#{{ site.githubiverse.github.user }}" id="author"><i class='icon-user' title="User"></i>&nbsp;<a href="{{ site.githubiverse.github.base }}{{ site.githubiverse.github.user }}">
-                        <span property="foaf:nick">{{site.githubiverse.github.user}}</span>
-                    </a></div>
-                </div>
-              </div>
-
-              <div class="meta row-fluid">
-                <div class="span6">
-                  <div id="license"><i class='icon-file' title="License"></i>&nbsp;<span property="ttn:license">{{ site.githubiverse.license }}</span></div>
-                </div>
                 <div class="span6">
                   <div id="download-all"><i class='icon-download' title="Download Project"></i>&nbsp;<a href="{{ site.githubiverse.github.base }}{{ site.githubiverse.github.user }}/{{ site.githubiverse.github.repository }}/zipball/{{ site.githubiverse.github.branch }}">Download Project as Zip</a></div>
                 </div>
