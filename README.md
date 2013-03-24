@@ -5,7 +5,7 @@ These are some of the grains we print and use in our granular experiments in the
 
 Here is a list of shapes and some of their properties:
 
-| Shape         		| Volume	| Surface Area	| N Faces	| Geometric Family	|
+| Shape         		| Volume	| Surface Area	| N Faces	        | Geometric Family	|
 | --------------------- | --------- | ------------- | ----------------- | ----------------- |
 | Sphere				|		  	|				| infty				| Ball				|
 | Tetrahedron			|		  	|				| 4					| Platonic Solid	|
